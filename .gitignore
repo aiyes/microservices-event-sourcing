@@ -152,18 +152,12 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
-.gitignore
-.gradle/
 .idea/inspectionProfiles/
 .idea
-.idea/vcs.xml
-.idea/workspace.xml
-.idea/modules/**
 
 *.iml
-.iml
-/class
 /classes
 /**/build/
 
 /log
+
